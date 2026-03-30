@@ -1,0 +1,39 @@
+PRITHIVI RAM V
+Electrical and Electronics Engineering
+
+📧 prithiviram911@gmail.com
+📍 Salem, India
+
+EDUCATION
+B.E Electrical and Electronics Engineering | Government College of Engineering, Salem
+CGPA: 8.9/10 (pursuing) | 2023–2027
+HSE: 92.66% | SSLC: 95.6% | KSR Matric Hr Sec School
+
+TECHNICAL SKILLS
+C, C++, Embedded C, Arduino, PCB Design, IoT basics, MATLAB, Power Systems, Control Theory, Circuit Debugging, Team Leadership
+
+PROJECTS
+• Smart Factory Voltage Fluctuation Logging System – Real-time voltage monitoring with cloud alerts and SD card logging.
+• Obstacle Avoiding Robot – Autonomous navigation using ultrasonic sensors and Arduino.
+• IoT Greenhouse Monitoring – Wireless sensing and automated irrigation.
+
+PAPER PRESENTATIONS
+• Hybrid Electric Vehicles (HEV) – National Symposium
+• Autonomous Mobile Robots – GCE Salem TechMeet
+• IoT Greenhouse Monitoring – Agri-Tech Symposium
+
+HACKATHONS & ACHIEVEMENTS
+• Smart India Hackathon 2025 (shortlisted)
+• 1st Prize – PCB Design Contest (Naan Mudhalvan)
+• Createch L&T National Finalist
+• NPTEL Elite + Silver: C++ Programming
+
+CERTIFICATIONS & LEADERSHIP
+• Industrial IoT – CISCO Networking Academy
+• Vice Chairperson – IEEE Student Branch, GCE Salem
+• NSS Coordinator – community service & tech camps
+
+LANGUAGES
+English, Tamil, Hindi
+
+REFERENCES available upon request.
